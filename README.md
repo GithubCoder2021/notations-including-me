@@ -206,5 +206,6 @@ Thanks to the authors of community notations:
 - Infix standard: [Ivan Sanchez](https://github.com/IvanSanchez)
 - Infix long scale: [Ivan Sanchez](https://github.com/IvanSanchez)
 - English: [ducdat0507 ](https://github.com/ducdat0507)
+- DNotaion: [GithubCoder2021 ](https://github.com/githubcoder2021)
 
 Additional thanks to [Omsi](https://github.com/omsi6) for the scaffolding of docs page.
