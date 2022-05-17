@@ -23,5 +23,4 @@ export * from "./blobs";
 export * from "./blind";
 export * from "./all";
 export * from "./custom";
-export * from "./dnotation";
 export { formatMantissaWithExponent, formatMantissaBaseTen, formatMantissa, abbreviateStandard } from "./utils";
