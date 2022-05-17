@@ -17,6 +17,7 @@ import { BarNotation } from "./bar";
 import { ShiNotation } from "./shi";
 import { BlobsNotation } from "./blobs";
 import { BlindNotation } from "./blind";
+import { DNotation } from "./dnotation";
 
 const notationList = [
   new ScientificNotation(),
@@ -35,7 +36,8 @@ const notationList = [
   new BarNotation(),
   new ShiNotation(),
   new BlobsNotation(),
-  new BlindNotation()
+  new BlindNotation(),
+  new DNotation(),
 ];
 
 export class AllNotation extends Notation {
